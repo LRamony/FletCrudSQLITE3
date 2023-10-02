@@ -1,6 +1,6 @@
 # Flet + SQLite Crud
 
-1. install Sqlite
-pip install sqlite3
+1. install Flet
+pip install flet
 
 2. Smile
